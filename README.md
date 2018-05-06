@@ -4,4 +4,4 @@ Weather app that gets geocode from google geocode, and then get weather forcast 
 
 ## Instructions
 
-node app.js -a '<address>'
+node app.js -a "<address>"
